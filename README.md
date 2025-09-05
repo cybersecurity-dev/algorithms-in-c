@@ -1,4 +1,4 @@
-# Algorithms in C 
+# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 
 <p align="center">
@@ -29,6 +29,6 @@
 
 ---
 
-| Algorithm | F# Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
+| Algorithm | C Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
 |----|:----:|:----:|:----:|:----:|:----:|
 |[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)| O(n) | O(n^2) | O(n^2) | O(1) |

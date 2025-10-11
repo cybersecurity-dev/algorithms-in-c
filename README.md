@@ -32,3 +32,16 @@
 | Algorithm | C Implementation | Best Time Complexity | Average Time Complexity | Worst Time Complexity | Worst Space Complexity |
 |----|:----:|:----:|:----:|:----:|:----:|
 |[Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)|[source](#)| O(n) | O(n^2) | O(n^2) | O(1) |
+
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/algorithms-in-c/graphs/contributors)!
+
+[🔼 Back to top](#algorithms-in-c)

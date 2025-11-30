@@ -1,4 +1,13 @@
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-c-programming-language">
+          <img width="8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
+        </a>
+    </p>
+
 # [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C](https://en.wikipedia.org/wiki/C_(programming_language))
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/algorithms/) 
 
@@ -12,11 +21,13 @@
 </p>
 
 ## 📖 Contents
-- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Searching & Sorting Algorithms](#searching--sorting-algorithms)
+- [Shortest Path Algorithms](#shortest-path-algorithms)
+- [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Searching & Sorting Algorithms
+## `Searching & Sorting` Algorithms
 
 * **Searching Algorithms**
     * [Binary Search](https://en.wikipedia.org/wiki/Binary_search)
@@ -28,7 +39,8 @@
     * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
     * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
     * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-## Shortest Path Algorithms 
+
+## `Shortest Path` Algorithms 
 * [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 * [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 

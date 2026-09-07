@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [C](https://en.wikipedia.org/wiki/C_(programming_language))
+# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [C](https://wikipedia.org/wiki/C_(programming_language))
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -14,11 +14,137 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+```mermaid
+mindmap
+  root((Algorithms))
+
+    Foundations
+      Time Complexity
+      Space Complexity
+      Big O
+      Big Omega
+      Big Theta
+      Recursion
+      Divide and Conquer
+
+    Searching
+      Linear Search
+      Binary Search
+      Jump Search
+      Interpolation Search
+      Exponential Search
+
+    Sorting
+      Bubble Sort
+      Selection Sort
+      Insertion Sort
+      Merge Sort
+      Quick Sort
+      Heap Sort
+      Counting Sort
+      Radix Sort
+      Bucket Sort
+
+    Data Structures
+      Arrays
+      Linked Lists
+      Stacks
+      Queues
+      Hash Tables
+      Trees
+      Heaps
+      Graphs
+
+    Graph Algorithms
+      BFS
+      DFS
+      Topological Sort
+      Dijkstra
+      Bellman Ford
+      Floyd Warshall
+      Prim
+      Kruskal
+      A Star
+      SCC
+
+    Tree Algorithms
+      Tree Traversal
+      BST Operations
+      AVL Trees
+      Red Black Trees
+      Segment Trees
+      Fenwick Trees
+      Trie
+
+    Dynamic Programming
+      Memoization
+      Tabulation
+      Knapsack
+      LCS
+      LIS
+      Matrix Chain
+      Coin Change
+
+    Greedy Algorithms
+      Activity Selection
+      Huffman Coding
+      Fractional Knapsack
+      Prim
+      Kruskal
+      Scheduling
+
+    String Algorithms
+      KMP
+      Rabin Karp
+      Boyer Moore
+      Z Algorithm
+      Suffix Array
+      Suffix Tree
+      Aho Corasick
+
+    Mathematical
+      Euclidean GCD
+      Sieve of Eratosthenes
+      Fast Exponentiation
+      Modular Arithmetic
+      FFT
+
+    Computational Geometry
+      Convex Hull
+      Line Intersection
+      Closest Pair
+      Sweep Line
+
+    Randomized
+      Monte Carlo
+      Las Vegas
+      Randomized QuickSort
+      Reservoir Sampling
+
+    Parallel Algorithms
+      Map Reduce
+      Parallel Sorting
+      GPU Computing
+
+    Optimization
+      Branch and Bound
+      Backtracking
+      Simulated Annealing
+      Genetic Algorithms
+
+    Machine Learning
+      Gradient Descent
+      K Means
+      KNN
+      Decision Trees
+      Neural Networks
+```
 
 ## 📖 Contents
 - [Searching & Sorting Algorithms](#searching--sorting-algorithms)
